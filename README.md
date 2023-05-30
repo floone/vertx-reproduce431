@@ -4,7 +4,7 @@ See https://github.com/quarkusio/quarkus/issues/33692
 
 ## Build and run
 
-    mvn clean package && java -jar target/maven-simplest-4.3.1-fat.jar
+    mvn clean package && java -jar target/maven-simplest-*.jar
 
 ## Example request
 
